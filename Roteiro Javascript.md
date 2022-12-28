@@ -29,10 +29,6 @@
 
 ---
 
-### Extra
-
-- [ ] protocolo cliente servidor
-
 ### protocolo HTTP
 
 - [ ] Introdução a APIs
@@ -42,6 +38,9 @@
 - [ ] Headers
 - [ ] Body e Status Code
 
+### Extra
+
+- [ ] protocolo cliente servidor
 ---
 
 ## conceitos avançados
