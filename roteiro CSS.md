@@ -207,3 +207,116 @@
 - [ ] Imagens Responsivas
 - [ ] Tipografias Responsivas
 - [ ] Mobile First
+---
+
+## Avançado
+
+---
+### Pseudo Elementos e Pseudo Classes
+
+#### Pseudo Elementos
+
+- [ ] first-letter
+- [ ] first-line
+- [ ] backdrop
+- [ ] marker
+- [ ] place-holder
+- [ ] selection
+- [ ] file-selector-button
+- [ ] before e after
+
+#### Pseudo Classes
+
+- [ ] hover
+- [ ] active
+- [ ] focus
+- [ ] target
+- [ ] enable e disabled
+- [ ] link e visited
+- [ ] place-holder-shown
+- [ ] Checked e Indeterminate
+- [ ] valid e invalid, in-range e out-ofrange
+- [ ] required e optional
+- [ ] autofill
+- [ ] root
+- [ ] nth-child e nth-of-type
+- [ ] first-of-type e last-of-type
+- [ ] nth-last-child e nth-last-of-type
+- [ ] only-child
+- [ ] only-of-type
+- [ ] empty
+- [ ] is
+- [ ] where
+- [ ] not
+- [ ] has
+
+---
+### Transições e Animações
+
+#### Transformações 2D
+
+- [ ] translate()
+- [ ] rotate()
+- [ ] rotateX() e rotateY()
+- [ ] scale()
+- [ ] skew()
+- [ ] matrix()
+
+#### Transformações 3D
+
+- [ ] Perspectiva
+- [ ] Rotacionando e movendo elementos no eixo Z
+- [ ] Escalando elementos de forma tridimensional
+- [ ] transform-origin
+- [ ] transform-style
+- [ ] Matrix3d
+- [ ] backface-visibility
+
+#### Animações
+
+- [ ] Transições
+- [ ] Exemplo prático - transições e pseudo-elementos
+- [ ] Iniciando com animações
+- [ ] Definindo atraso e número de interações de uma animação
+- [ ] Direção da reprodução e curva de velocidade da animação
+- [ ] Propriedade animation-fill-mode
+- [ ] Pausando a animação e shorthand animation
+
+---
+### Boas Práticas e Convenções
+
+#### Hierarquia e especificidade
+
+- [ ] Hierarquia do efeito em cascata
+- [ ] Especificidade
+- [ ] !important
+- [ ] Herança
+
+#### Compatibilidade entre Navegadores
+
+- [ ] Motores de Renderização
+- [ ] Navegadores que não suportam recursos modernos
+- [ ] Prefixos no CSS
+
+#### Estilos CSS
+
+- [ ] Definindo variáveis
+- [ ] BEM (Block, Element, Modifier)
+- [ ] SMACSS (Scalable and Modular Architecture for CSS)
+- [ ] OOCSS (Object Oriented CSS)
+
+---
+### basico de bootstrap
+
+- [ ] Menu de navegação
+- [ ] Carrossel de imagens
+- [ ] Adicionando a citação
+- [ ] Criando a sessão de cards sobre a empresa
+- [ ] Ajustando menu de navegação e carrossel de imagens
+- [ ] Organizando as abas do catálogo
+- [ ] Adicionando os cards dos produtos do cardápio
+- [ ] Modal de localização
+- [ ] Criando o rodapé e finalizando o projeto
+- [ ] Ajustes finais
+
+---
