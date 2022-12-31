@@ -8,6 +8,11 @@
 - [x] Operadores
 - [ ] Estruturas Condicionais
 
+### DOM
+
+- [ ] Introdução ao DOM
+- [ ] Eventos DOM
+
 ### basicos intermediários
 
 - [ ] Funções
