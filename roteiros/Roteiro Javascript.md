@@ -8,11 +8,6 @@
 - [x] Operadores
 - [ ] Estruturas Condicionais
 
-### DOM
-
-- [ ] Introdução ao DOM
-- [ ] Eventos DOM
-
 ### basicos intermediários
 
 - [ ] Funções
@@ -33,6 +28,10 @@
 ## javascript pra web
 
 ---
+### DOM
+
+- [ ] Introdução ao DOM
+- [ ] Eventos DOM
 
 ### protocolo HTTP
 
