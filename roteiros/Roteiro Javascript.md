@@ -4,8 +4,8 @@
 ---
 ### primeiros passos
 
-- [ ] Variáveis
-- [ ] Operadores
+- [X] Variáveis
+- [x] Operadores
 - [ ] Estruturas Condicionais
 
 ### basicos intermediários
