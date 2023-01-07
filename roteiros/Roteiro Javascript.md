@@ -30,8 +30,8 @@
 ---
 ### DOM
 
-- [ ] Introdução ao DOM
-- [ ] Eventos DOM
+- [x] Introdução ao DOM
+- [x] Eventos DOM
 
 ### protocolo HTTP
 
