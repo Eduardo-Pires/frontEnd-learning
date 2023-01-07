@@ -10,7 +10,7 @@
 
 ### basicos intermediários
 
-- [ ] Funções
+- [x] Funções
 - [ ] Objetos
 - [ ] classes
 - [ ] arrays
@@ -18,7 +18,7 @@
 
 ### Importação e exportação
 
-- [ ] gets
+- [x] gets
 - [ ] prints
 - [ ] importação
 - [ ] exportação
