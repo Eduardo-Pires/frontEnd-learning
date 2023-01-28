@@ -4,9 +4,9 @@
 ---
 ### primeiros passos
 
-- [X] Variáveis
+- [x] Variáveis
 - [x] Operadores
-- [ ] Estruturas Condicionais
+- [x] Estruturas Condicionais
 
 ### basicos intermediários
 
