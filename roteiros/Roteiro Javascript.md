@@ -14,7 +14,7 @@
 - [ ] Objetos
 - [ ] classes
 - [ ] arrays
-- [ ] estruturas de repetição
+- [x] estruturas de repetição
 
 ### Importação e exportação
 
