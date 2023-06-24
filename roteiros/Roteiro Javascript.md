@@ -13,7 +13,7 @@
 - [x] Funções
 - [ ] Objetos
 - [ ] classes
-- [ ] arrays
+- [x] arrays
 - [x] estruturas de repetição
 
 ### Importação e exportação
@@ -35,8 +35,8 @@
 
 ### protocolo HTTP
 
-- [ ] Introdução a APIs
-- [ ] Como funcionam as requisições
+- [x] Introdução a APIs
+- [x] Como funcionam as requisições
 - [ ] URL Path e Method
 - [ ] Path Params e Query String
 - [ ] Headers
@@ -53,10 +53,10 @@
 
 #### variáveis e escopo
 
-- [ ] Variáveis
+- [x] Variáveis
 - [ ] Hoisting
-- [ ] Escopos e Diferenças entre Var, Let e Const
-- [ ] Convenções de nomenclaturas
+- [x] Escopos e Diferenças entre Var, Let e Const
+- [x] Convenções de nomenclaturas
 
 #### tipos de dados
 
@@ -85,7 +85,7 @@
 ### manipulação de listas
 
 - [ ]  Manipulação de Listas
-- [ ]  Foreach
+- [x]  Foreach
 - [ ]  Filter
 - [ ]  Map
 - [ ]  Reduce
@@ -93,6 +93,6 @@
 
 ---
 ### Assincronismo com Promises
-- [ ]  Funcionamento das Promises
-- [ ]  Manipulando Arquivos através de Promises
-- [ ]  Async e Await
+- [x]  Funcionamento das Promises
+- [x]  Manipulando Arquivos através de Promises
+- [x]  Async e Await
