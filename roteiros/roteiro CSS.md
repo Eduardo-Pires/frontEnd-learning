@@ -7,35 +7,35 @@
 
 #### Seletores
 
-- [ ] Seletor de Tags
-- [ ] Seletores de ID
-- [ ] Seletor de classes
-- [ ] Seletores Universais
+- [x] Seletor de Tags
+- [x] Seletores de ID
+- [x] Seletor de classes
+- [x] Seletores Universais
 - [ ] Seletores de atributo
 
 #### Combinadores
 
-- [ ] Agrupamento de Seletores
+- [x] Agrupamento de Seletores
 - [ ] Combinador Descendente
 - [ ] Combinador Filho
 - [ ] Combinador irmão
 
 #### Espaçamento e Dimensionamento
 
-- [ ] Largura e Altura
+- [x] Largura e Altura
 - [ ] Altura e Largura Máxima e Mínima
-- [ ] Margin
-- [ ] Padding
-- [ ] Box Sizing
+- [x] Margin
+- [x] Padding
+- [x] Box Sizing
 ---
 ### Estilização
 
 #### Cores
 
-- [ ] Cores Pré-Definidas
-- [ ] RGB e RGBA
-- [ ] Hexadecimal
-- [ ] HSL e HSLA
+- [x] Cores Pré-Definidas
+- [x] RGB e RGBA
+- [x] Hexadecimal
+- [x] HSL e HSLA
 
 #### Imagens
 
@@ -44,22 +44,22 @@
 
 #### Fundo dos Elementos
 
-- [ ] Alterar Fundo dos Elementos
-- [ ] Redimensionar as Imagens de Fundo dos Elementos
-- [ ] Repetição de Imagens de Fundo
+- [x] Alterar Fundo dos Elementos
+- [x] Redimensionar as Imagens de Fundo dos Elementos
+- [x] Repetição de Imagens de Fundo
 - [ ] Background Attachment
 - [ ] Background Origin
 - [ ] Background Clip
 - [ ] Mesclagem
-- [ ] Propriedade Background
+- [x] Propriedade Background
 
 #### Bordas
 
-- [ ] Tamanho da borda
-- [ ] Estilo da Borda
-- [ ] Cor da borda
-- [ ] propriedade Border
-- [ ] Arredondando os Cantos com a Propriedade Border Radius
+- [x] Tamanho da borda
+- [x] Estilo da Borda
+- [x] Cor da borda
+- [x] propriedade Border
+- [x] Arredondando os Cantos com a Propriedade Border Radius
 - [ ] Propriedade Border Image Source
 - [ ] Propriedade Border Image Slice
 - [ ] Propriedade Border Image Width
@@ -69,16 +69,16 @@
 
 #### Fontes
 
-- [ ] Encontrar Fontes Personalizadas
-- [ ] Personalizar as Fontes de um Site
-- [ ] Aplicar Fontes Personalizadas com @Font-Face
-- [ ] Aplicar Fontes Personalizadas com @import url()
-- [ ] Alterar o Tamanho das Fontes com Font-Size
-- [ ] Estilo de Fontes (Font-Style)
-- [ ] Espessura das Fontes com Font-Weight
+- [x] Encontrar Fontes Personalizadas
+- [x] Personalizar as Fontes de um Site
+- [x] Aplicar Fontes Personalizadas com @Font-Face
+- [x] Aplicar Fontes Personalizadas com @import url()
+- [x] Alterar o Tamanho das Fontes com Font-Size
+- [x] Estilo de Fontes (Font-Style)
+- [x] Espessura das Fontes com Font-Weight
 - [ ] Variação das Fontes com Font-Variant
 - [ ] Propriedade Font-Stretch
-- [ ] Customizar a Altura da Linha com Line-Height
+- [x] Customizar a Altura da Linha com Line-Height
 - [ ] Propriedade Resumida Font
 
 #### Textos
@@ -96,13 +96,13 @@
 
 #### Sombras
 
-- [ ] Efeito de Sombra nos Elementos
+- [x] Efeito de Sombra nos Elementos
 - [ ] Efeito de Sombra nos Textos
 
 #### Sem categoria
 
-- [ ] Aplicando Transparência aos Elementos
-- [ ] Propriedade Overflow
+- [x] Aplicando Transparência aos Elementos
+- [x] Propriedade Overflow
 - [ ] Redefinindo as Propriedades Padrões dos Navegadores
 
 ---
@@ -121,7 +121,7 @@
 - [ ] Unidade de Medida em
 - [ ] Unidade de Medida rem
 - [ ] Diferença Entre rem e em
-- [ ] Viewports
+- [x] Viewports
 - [ ] Unidade de Medida ex e ch
 - [ ] Calcular Valores com CSS
 ---
@@ -132,12 +132,12 @@
 
 #### Propriedades de exibição
 
-- [ ] Propriedade Display
-- [ ] Display Block
-- [ ] Display Inline
-- [ ] Display Inline Block
-- [ ] Display None
-- [ ] Display None Vs Visibility Hidden
+- [x] Propriedade Display
+- [x] Display Block
+- [x] Display Inline
+- [x] Display Inline Block
+- [x] Display None
+- [x] Display None Vs Visibility Hidden
 - [ ] Alinhamento De Elementos Inline
 - [ ] Flexbox Vs Grid Layout
 
@@ -145,9 +145,9 @@
 
 - [ ] Position Static
 - [ ] Position Relative
-- [ ] Position Absolute
-- [ ] Position Fixed
-- [ ] Position Sticky
+- [x] Position Absolute
+- [x] Position Fixed
+- [x] Position Sticky
 - [ ] Z-Index
 
 ---
@@ -227,12 +227,12 @@
 
 #### Pseudo Classes
 
-- [ ] hover
-- [ ] active
-- [ ] focus
-- [ ] target
-- [ ] enable e disabled
-- [ ] link e visited
+- [x] hover
+- [x] active
+- [x] focus
+- [x] target
+- [x] enable e disabled
+- [x] link e visited
 - [ ] place-holder-shown
 - [ ] Checked e Indeterminate
 - [ ] valid e invalid, in-range e out-ofrange
@@ -255,7 +255,7 @@
 
 #### Transformações 2D
 
-- [ ] translate()
+- [x] translate()
 - [ ] rotate()
 - [ ] rotateX() e rotateY()
 - [ ] scale()
