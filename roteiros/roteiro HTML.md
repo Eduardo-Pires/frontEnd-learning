@@ -2,37 +2,37 @@
 
 #### Introdução ao HTML
 
-- [ ] Inspetor de elementos
-- [ ] Estrutura basica do HTML
-- [ ] Tags
-- [ ] Atributos das Tags
-- [ ] Textos
-- [ ] Listas ordenadas e não ordenadas
-- [ ] Links
+- [x] Inspetor de elementos
+- [x] Estrutura basica do HTML
+- [x] Tags
+- [x] Atributos das Tags
+- [x] Textos
+- [x] Listas ordenadas e não ordenadas
+- [x] Links
 
 ## Conceitos básicos/fundamentais
 
 #### Formulários
 
-- [ ] Tags Form
-- [ ] Tag Input e Seus Tipos
-- [ ] Checkbox e Radio
-- [ ] Button e seus tipos
-- [ ] Select e seus tipos
-- [ ] Textarea
+- [x] Tags Form
+- [x] Tag Input e Seus Tipos
+- [x] Checkbox e Radio
+- [x] Button e seus tipos
+- [x] Select e seus tipos
+- [x] Textarea
 
 #### Estruturação e formatação
 
-- [ ] Formatação de textos
-- [ ] Div e Span
-- [ ] Fieldsets
-- [ ] Embeds
-- [ ] Iframes
+- [X] Formatação de textos
+- [X] Div e Span
+- [x] Fieldsets
+- [x] Embeds
+- [x] Iframes
 - [ ] Resenha sobre cores
 
 #### Tags de mídia
 
-- [ ] Tag img
+- [x] Tag img
 - [ ] Tag audio
 - [ ] Tag video
 - [ ] Tag track
@@ -40,20 +40,20 @@
 
 #### Tabelas
 
-- [ ] Tag table
-- [ ] Tag tr
-- [ ] Tag td e th
-- [ ] Tag tbody, thead e tfoot
+- [x] Tag table
+- [x] Tag tr
+- [x] Tag td e th
+- [x] Tag tbody, thead e tfoot
 - [ ] Estilização de tabelas
 
 ## Conhecimentos intermediários
 
 #### HTML semântico
 
-- [ ] HTML semântica
-- [ ] Acessibilidade
+- [x] HTML semântica
+- [x] Acessibilidade
 - [ ] Web Scraping
-- [ ] Main, Header e Footer
+- [x] Main, Header e Footer
 - [ ] Aside, section e Nav
 - [ ] Article, Bookquote e Q
 - [ ] Figure, Figcaption e Picture
